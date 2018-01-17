@@ -303,13 +303,13 @@ footer {
 	}
 
 .col-33 {
-  display: inline-block;
+  display: inline;
   float:left;
   width: 32%;
 }
 
 .col-66 {
-  display: inline-block;
+  display: inline;
   float:left;
   width: 65%;
 }
