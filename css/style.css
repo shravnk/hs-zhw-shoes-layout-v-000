@@ -302,4 +302,8 @@ footer {
 		text-decoration: underline;
 	}
 
+col-33 {
+  float:left;
+  width: 32%;
+}
 /* code examples copyright Jonathan Grover 2012 */
