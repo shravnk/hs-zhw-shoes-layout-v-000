@@ -302,7 +302,7 @@ footer {
 		text-decoration: underline;
 	}
 
-col-33 {
+.col-33 {
   float:left;
   width: 32%;
 }
