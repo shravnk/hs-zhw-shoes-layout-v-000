@@ -37,6 +37,7 @@
 .col-66 {
   display: inline-block;
   float:left;
+  height: 38em;
   width: 64%;
   margin-left: 10px;
 }
