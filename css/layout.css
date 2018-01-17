@@ -24,6 +24,9 @@
 
 /* Posititoning Classes */
 
+#wood {
+  background-size: cover;
+}
 .col-33 {
   display: inline;
   float:left;
