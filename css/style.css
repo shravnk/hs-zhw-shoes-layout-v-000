@@ -306,4 +306,9 @@ footer {
   float:left;
   width: 32%;
 }
+
+.col-66 {
+  float:left;
+  width: 65%;
+}
 /* code examples copyright Jonathan Grover 2012 */
