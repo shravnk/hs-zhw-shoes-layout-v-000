@@ -24,4 +24,14 @@
 
 /* Posititoning Classes */
 
+.col-33 {
+  display: inline;
+  float:left;
+  width: 32%;
+}
 
+.col-66 {
+  display: inline;
+  float:left;
+  width: 65%;
+}
