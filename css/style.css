@@ -312,7 +312,7 @@ footer {
   width: 65%;
 }
 
-.clearfix:after {
+.clearfix {
   content: ".";
   display: block;
   clear: both ;
