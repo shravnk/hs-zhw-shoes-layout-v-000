@@ -28,10 +28,16 @@
   display: inline;
   float:left;
   width: 32%;
+  margin-left: 2px;
 }
 
 .col-66 {
   display: inline;
   float:left;
   width: 65%;
+  margin-left: 2px;
+}
+
+.first {
+  margin-left: 0%;
 }
